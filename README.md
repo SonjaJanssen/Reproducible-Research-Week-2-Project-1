@@ -2,7 +2,7 @@
  Assignment Reproducible Research Week 2 Course Project 1
 ## Introduction
 
-It is now possible to collect a large amount of data about personal movement using activity monitoring devices such as a: 
+It is now possible to collect a large amount of data about personal movement using activity monitoring devices such as a Fitbit, Nike Fuelband, or Jawbone Up: 
 -     http://www.fitbit.com/
 -     http://www.nike.com/us/en_us/c/nikeplus-fuelband or 
 -     https://jawbone.com/up
