@@ -32,7 +32,8 @@ The dataset is stored in a comma-separated-value (CSV) file and there are a tota
 7.  Histogram of the total number of steps taken each day after missing values are imputed
 8.  Panel plot comparing the average number of steps taken per 5-minute interval across weekdays and weekends
 9.  All of the R code needed to reproduce the results (numbers, plots, etc.) in the report
-`#ffffff`
+
+`#000000`
 
 ## Assignment 
 This assignment will be described in multiple parts. You will need to write a report that answers the questions detailed below. Ultimately, you will need to complete the entire assignment in a "single R markdown" document that can be processed by knitr and be transformed into an HTML file.
