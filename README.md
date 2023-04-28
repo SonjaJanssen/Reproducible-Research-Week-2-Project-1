@@ -1,5 +1,10 @@
 # Reproducible Research Week 2 Course Project 1
  Assignment Reproducible Research Week 2 Course Project 1
+ 
+ This repository is a project 2 assignment of the course "Exploratory Data Analysis", Data Science specialization offered by John Hopkins University   	Bloomberg School of Public Health _ at Coursera.
+
+ Lectures: By Professors PhD Jeffrey Leek, PhD Roger D. Peng, PhD Brian Caffo
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal movement using activity monitoring devices such as a Fitbit, Nike Fuelband, or Jawbone Up: 
