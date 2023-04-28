@@ -1,7 +1,8 @@
 # Reproducible Research Week 2 Course Project 1
- Assignment Reproducible Research Week 2 Course Project 1
+ ## Assignment Reproducible Research Week 2 Course Project 1
+ Graded assignment
  
- This repository is a project 2 assignment of the course "Exploratory Data Analysis", Data Science specialization offered by John Hopkins University   	Bloomberg School of Public Health _ at Coursera.
+ This repository is a project 1 assignment of the course "Exploratory Data Analysis", Data Science specialization offered by John Hopkins University   	Bloomberg School of Public Health _ at Coursera.
 
  Lectures: By Professors PhD Jeffrey Leek, PhD Roger D. Peng, PhD Brian Caffo
 
