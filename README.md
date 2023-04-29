@@ -66,7 +66,7 @@ Show any code that is needed to
 
 #### What is mean total number of steps taken per day?
 For this part of the assignment, you can ignore the missing values in the dataset.
-1.  Calculate the total number of steps taken per day
+1.  Calculate the total number of steps taken per day. 
     If you do not understand the difference between a histogram and a barplot, research the 	           difference between them. 
 2.  Make a histogram of the total number of steps taken each day
 3.  Calculate and report the mean and median of the total number of steps taken per day
