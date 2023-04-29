@@ -67,13 +67,12 @@ Show any code that is needed to
 #### What is mean total number of steps taken per day?
 For this part of the assignment, you can ignore the missing values in the dataset.
 1.  Calculate the total number of steps taken per day
-2.  If you do not understand the difference between a histogram and a barplot, research the 	       difference between them. 
-3.  Make a histogram of the total number of steps taken each day
-
-Calculate and report the mean and median of the total number of steps taken per day
+    If you do not understand the difference between a histogram and a barplot, research the 	           difference between them. 
+2.  Make a histogram of the total number of steps taken each day
+3.  Calculate and report the mean and median of the total number of steps taken per day
 
 #### What is the average daily activity pattern?
-1.  Make a time series plot (i.e. type = "l") of the 5-minute interval (x-axis) and the average         number of steps taken, averaged    across all days (y-axis)
+1.  Make a time series plot (i.e. type = "l") of the 5-minute interval (x-axis) and the average         number of steps taken, averaged across all days (y-axis)
 2.  Which 5-minute interval, on average across all the days in the dataset, contains the maximum       number of steps?
 
 #### Imputing missing values
