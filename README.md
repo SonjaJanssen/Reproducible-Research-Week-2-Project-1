@@ -1,6 +1,5 @@
-# Reproducible Research Week 2 Course Project 1
- ## Assignment Reproducible Research 
- 
+# Project: Reproducible Research 
+
 This repository is a project assignment "Exploratory Data Analysis", Data Science study offered by John Hopkins University Bloomberg School of Public Health
 Lectures: By Professors PhD Jeffrey Leek, PhD Roger D. Peng, PhD Brian Caffo
 
