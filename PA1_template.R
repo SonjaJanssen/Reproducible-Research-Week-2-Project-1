@@ -1,7 +1,7 @@
 
 ##  Reproducible Research - Week 2- Project 1 
 #   Lectures: By Professors PhD Jeffrey Leek, PhD Roger D. Peng, PhD Brian Caffo
-#   University: John Hopkins University_Coursera
+#   University: John Hopkins University
 #   Codes: Sonja Janssen-Sahebzad
 #   Date:  17 September 2023
 
